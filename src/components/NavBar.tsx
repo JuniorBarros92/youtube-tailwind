@@ -37,7 +37,7 @@ const NavBar = () => {
             <span className="text-sm font-medium">Videos com "Gostei"</span>
           </a>
           <hr className="mx-6 my-3 text-gray-200" />
-          <h3 className="px-6 py-2 text-xl font-medium text-gray-900">
+          <h3 className="px-6 py-2 text-lg font-medium text-gray-950">
             Inscrições
           </h3>
           <a className="flex items-center gap-6 px-4 py-2 hover:bg-gray-100 rounded-lg text-gray-900 cursor-pointer">
